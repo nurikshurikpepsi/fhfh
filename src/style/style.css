@@ -1,0 +1,403 @@
+body {
+  font-family: PT Sans;
+}
+
+.header .box {
+  width: 1920px;
+  background-color: grey;
+}
+
+.header .text-port {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header .p {
+  padding-left: 405px;
+  font-family: Post No Bills Jaffna;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 54px;
+}
+
+.header .smile {
+  padding-left: 489px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  list-style: none;
+  text-decoration: none;
+}
+
+.header .lupa {
+  padding-left: 61px;
+  padding-top: 31px;
+  padding-bottom: 35px;
+}
+
+.header .jony {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.header .forel {
+  padding-left: 44px;
+}
+
+.header .w {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.sank__text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.sank .t {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 24px */
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  top: 80%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  color: #dad2d2;
+}
+
+.hard .hard-text {
+  font-family: Playfair Display;
+  font-size: 36px;
+  line-height: 42px;
+  padding-left: 332px;
+  padding-right: 332px;
+  padding-top: 93px;
+  padding-bottom: 598px;
+  text-transform: uppercase;
+  position: absolute;
+  color: white;
+}
+
+.hard .oboloxka {
+  height: 325px;
+  width: 260px;
+  background-color: yellow;
+}
+
+.hard .save {
+  position: absolute;
+  padding-left: 23px;
+  padding-right: 22px;
+  padding-top: 55px;
+  padding-bottom: 56px;
+  background: #191B1C;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.hard .time-text {
+  font-family: Playfair Display;
+}
+
+.hard .glavni {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: black;
+}
+
+.hard .time-1 {
+  padding-top: 232px;
+  padding-left: 80px;
+}
+
+.hard .time-3 {
+  padding-right: 80px;
+  padding-top: 232px;
+}
+
+.hard .time-2 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 232px;
+}
+
+.kolec2018 .pos {
+  border: 2px solid;
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  list-style: none;
+  text-decoration: none;
+}
+
+.kolec2018 .kolec-text {
+  padding-bottom: 20px;
+  padding-left: 880px;
+}
+
+.kolec2018 .body {
+  position: absolute;
+}
+
+.kolec2018 .colec-text {
+  position: absolute;
+  top: 250%;
+  left: 80%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  color: blanchedalmond;
+}
+
+.kolec2018 .shrek {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 150%;
+  /* or 21px */
+  text-align: center;
+}
+
+.kolec2018 .text2018 {
+  font-family: Playfair Display;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.kolec2018 .linia {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.time-8 .time-1 {
+  padding-left: 200px;
+}
+
+.time-8 .time- {
+  padding-top: 100px;
+}
+
+.time-8 .save {
+  background-color: black;
+}
+
+.time-8 .glavn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+}
+
+.time-8 .glavnie {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.time-8 .clacc-1 {
+  padding-left: 405px;
+  padding-bottom: 40px;
+}
+
+.time-8 .hor {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: black;
+}
+
+.time-8 .hore {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: black;
+}
+
+.time-8 .clacc-5 {
+  padding-left: 405px;
+  padding-bottom: 40px;
+}
+
+.time-8 .clacc-2 {
+  padding-left: 23px;
+  padding-bottom: 40px;
+}
+
+.time-8 .clacc-3 {
+  padding-left: 23px;
+  padding-bottom: 40px;
+}
+
+.time-8 .clacc-4 {
+  padding-left: 23px;
+  padding-bottom: 40px;
+  padding-right: 406px;
+}
+
+.time-8 .clacc-6 {
+  padding-left: 23px;
+  padding-bottom: 40px;
+}
+
+.time-8 .clacc-7 {
+  padding-left: 23px;
+  padding-bottom: 40px;
+}
+
+.time-8 .clacc-8 {
+  padding-left: 23px;
+}
+
+.time-8 .time-8-text {
+  font-family: Playfair Display;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  background: black;
+}
+
+.time-8 .time-text {
+  color: white;
+}
+
+.footer__box {
+  position: absolute;
+  top: 490%;
+  left: 10%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer__text {
+  font-family: Playfair Display;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+
+.footer .lop {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.footer .glorp {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer .katalog {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 150%;
+  list-style: none;
+}
+
+.footer .nez {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 100%;
+}
+
+.footer .shrek {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+.footer .telo-1 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: black;
+  text-decoration: none;
+}
+
+.footer .telo-2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: black;
+}
+
+.footer .telo-3 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: black;
+}
+
+.footer .telo-4 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: black;
+}
+
+.footer .telo-5 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: black;
+}
+
+.footer .kedr {
+  font-family: Playfair Display;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+
+.footer .gopn {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 150%;
+}
+/*# sourceMappingURL=style.css.map */
